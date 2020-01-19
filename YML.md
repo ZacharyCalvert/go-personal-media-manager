@@ -2,7 +2,7 @@
 
 This documents the YML format for the meta-data describing the media under the managed folder of this utility.
 
-# Fields:
+# Fields
 
 - extensions: possible file extensions available
 - paths: locations the file has been found in from import
