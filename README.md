@@ -1,14 +1,20 @@
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/ZacharyCalvert/go-personal-media-manager/blob/master/LICENSE)
+
 # About
 
-This is a golang rewrite of the media management software I have written in Java and Javascript.  It is my first personal project written in go.  
+This is a golang rewrite of the media management software I have written in Java and Javascript.  It is intended to be a command line utility and a web API offered for a ReactJS front-end for reviewing media files locally.
 
 # Documentation
 
 - [YML Format](./YML.md)
 
 # ToDo
-
+- License 
+- Go Report Card https://raw.githubusercontent.com/gojp/goreportcard/master/README.md
+```
+[![Go Report Card](https://goreportcard.com/badge/gojp/goreportcard)](https://goreportcard.com/report/gojp/goreportcard) [![Build Status](https://travis-ci.org/gojp/goreportcard.svg?branch=master)](https://travis-ci.org/gojp/goreportcard) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/gojp/goreportcard/blob/master/LICENSE)
+```
 - Documentation
 - Consumer Driven Contract
 - YML Conversion
