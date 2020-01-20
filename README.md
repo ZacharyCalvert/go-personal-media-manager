@@ -1,7 +1,7 @@
 
 ![](https://github.com/ZacharyCalvert/go-personal-media-manager/workflows/Test/badge.svg) 
 
-![](https://github.com/ZacharyCalvert/go-personal-media-manager/workflows/.github/workflows/go.yml/badge.svg)
+![](https://github.com/ZacharyCalvert/go-personal-media-manager/workflows/.github/workflows/main.yml/badge.svg)
 
 ![](https://github.com/ZacharyCalvert/go-personal-media-manager/workflows/.github/workflows/main.yml/badge.svg)
 
