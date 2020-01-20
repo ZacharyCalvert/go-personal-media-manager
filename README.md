@@ -1,5 +1,4 @@
-
-![](https://github.com/ZacharyCalvert/go-personal-media-manager/workflows/Test/badge.svg) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/ZacharyCalvert/go-personal-media-manager/blob/master/LICENSE)
+![](https://github.com/ZacharyCalvert/go-personal-media-manager/workflows/.github/workflows/go.yml/badge.svg) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/ZacharyCalvert/go-personal-media-manager/blob/master/LICENSE)
 
 # About
 
