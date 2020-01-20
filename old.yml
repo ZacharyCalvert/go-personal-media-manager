@@ -1,0 +1,11 @@
+label1:
+  sha256: label1
+  extensions:
+    - jpg
+    - JPG
+  paths:
+    - path1 
+    - path2 
+  earliestDate: 1304830800000
+  reviewDone: true
+  ignore: true
