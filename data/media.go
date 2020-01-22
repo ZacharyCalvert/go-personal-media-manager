@@ -1,5 +1,6 @@
 package data
 
+// MediaMeta represents the YML stored metadata on the image and videos managed by pmm
 type MediaMeta struct {
 	Files []struct {
 		Sha256         string   `yaml:"sha256"`
