@@ -9,21 +9,15 @@ This is a golang rewrite of the media management software I have written in Java
 - [YML Format](./YML.md)
 
 # ToDo
-- License 
-- Go Report Card https://raw.githubusercontent.com/gojp/goreportcard/master/README.md
-```
-[![Go Report Card](https://goreportcard.com/badge/gojp/goreportcard)](https://goreportcard.com/report/gojp/goreportcard) [![Build Status](https://travis-ci.org/gojp/goreportcard.svg?branch=master)](https://travis-ci.org/gojp/goreportcard) 
-```
+- Artifact attachment
 - Documentation
 - Consumer Driven Contract
 - YML Conversion
 - Hello World
-- Travis CI build
 - CD attachment to GitHub
 - Docker artifact
 - Command line entry points
 - Command line help
 - API entry point
 - Picture SDK
-- Artifact attachment
 
