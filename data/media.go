@@ -10,3 +10,4 @@ type MediaMeta struct {
 		Ignore         bool     `yaml:"ignore"`
 	}
 }
+
